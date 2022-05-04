@@ -1,4 +1,4 @@
-[[images/banner.png]]
+[[/images/banner.png]]
 
 # About crtsh-it
 ___
