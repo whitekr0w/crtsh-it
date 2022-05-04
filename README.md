@@ -51,6 +51,7 @@ $ python3 crtsh-it.py -d example.com -r
 
 # License
 ___
+Crtsh-it is licensed by the GNU General Public License v3.0.
 
 # Credits
 ___
