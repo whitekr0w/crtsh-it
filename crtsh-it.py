@@ -13,7 +13,7 @@ BANNER = """
 """
 # It's pronounced SEARCH IT!
 
-IS_URL = re.compile(r"^\S[-a-zA-Z0-9@:%._\+*~#=]{1,256}\.[a-zA-Z0-9()]*\b[a-zA-Z0-9()@:%_+.~#?&=]*\S$")
+IS_URL = re.compile(r"^\S[-a-zA-Z0-9:%._\+*~#=]{1,256}\.[a-zA-Z0-9()]*\b[a-zA-Z0-9():%_+.~#?&=]*\S$")
 
 print(BANNER)
 
