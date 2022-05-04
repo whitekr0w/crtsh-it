@@ -15,12 +15,12 @@ apt install python3 python3-pip
 
 ### Step 2: Clone the repository
 ```bash
-git clone <repo>
+git clone https://github.com/whitekr0w/crtsh-it.git
 ```
 
 ### Step 3: Move to the correct directory
 ```bash
-cd <path>
+cd crtsh-it
 ```
 
 ### Step 4: Install requirements
