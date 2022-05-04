@@ -1,13 +1,11 @@
 [[/images/banner.png]]
 
 # About crtsh-it
-___
 Crtsh-it is a subdomain enumeration tool that makes a call to crt.sh, which is a website that hosts a database of certificate that have been logged by certificate transparency. The tool will scrape all available URLs that are discovered and output them in a convenient format. This tool can also optionally resolve each of the URLs to find out which domains are active. 
 
 It's pronounced "search it".
 
 # Setup
-___
 ### Step 1: Install Python 3
 ```bash
 apt install python3 python3-pip
@@ -30,7 +28,6 @@ python3 pip install -r requirements.txt
 
 
 # Using crtsh-it
-___
 
 ```
 usage: crtsh-it.py [-h] -d DOMAIN [-r] [-v] [-q]
@@ -50,9 +47,7 @@ $ python3 crtsh-it.py -d example.com -r
 ```
 
 # License
-___
 Crtsh-it is licensed by the GNU General Public License v3.0.
 
 # Credits
-___
 - [A3h1nt](https://github.com/A3h1nt) for developing Subcert, the inspiration for this script.
