@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/whitekr0w/crtsh-it/main/images/banner.png "crtsh-it logo")
 
 # About crtsh-it
-Crtsh-it is a subdomain enumeration tool that makes a call to crt.sh, which is a website that hosts a database of certificate that have been logged by certificate transparency. The tool will scrape all available URLs that are discovered and output them in a convenient format. This tool can also optionally resolve each of the URLs to find out which domains are active. 
+Crtsh-it is a subdomain enumeration tool that makes a call to crt.sh, which is a website that hosts a database of certificates that have been logged by certificate transparency. The tool will scrape all available URLs that are discovered and output them in a convenient format. This tool can also optionally resolve each of the URLs to find out which domains are active. 
 
 **It's pronounced "search it". >:(**
 
